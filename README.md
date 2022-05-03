@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jhonat23
-- 👀 I’m interested in software engineering focused in ecommere and electrical engineering
-- 🌱 I’m currently learning Python, Javascript and SQL
-- 💞️ I’m looking to collaborate with anyone
+- 👀 I’m interested in software engineering focused in ecommerce and electrical engineering
+- 🌱 I’m currently learning Javascript, Ruby and all related topics
+- 💞️ I’m looking to collaborate with anyone and find a job
 - 📫 You can send email to josorio@utp.edu.co for issues and requests
 
 <!---
