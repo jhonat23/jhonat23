@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jhonat23
-- 👀 I’m interested in software engineering focused in ecommerce, data analitycs and electrical engineering
-- 🌱 I’m currently learning Python SQL and NoSQL
-- 💞️ I’m looking to collaborate with anyone and find a job
-- 📫 You can send email to josorio@utp.edu.co for issues and requests
+- 👀 I’m interested working as backend developer
+- 🌱 I’m currently learning Python, SQL and NoSQL
+- 💞️ I’m looking to collaborate with startups and new projects
+- 📫 You can send email to joosorio@utp.edu.co for issues and requests
 
 <!---
 jhonat23/jhonat23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
